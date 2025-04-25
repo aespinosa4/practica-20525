@@ -1,2 +1,6 @@
+#include <lostream >
 
-void hola
+void titulo(){
+  cout << "hola" << endl
+
+}
